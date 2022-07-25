@@ -14,3 +14,8 @@
 1. **Install [Java Runtime Environment (JRE)](https://www.java.com/en/download/)** onto your **local system**.
 2. **Navigate to [program releases](https://github.com/ichenglin/Magical_Keyboard/releases)** and download the **latest build**.
 3. **Execute** the program by **double-clicking** on it.
+
+## Instruction Manual
+
+In the program, the user could **freely navigate** through the **map** with **`WASD`** keys to **collect** scattered english **characters**,
+and press **`Backspace`** to **withdraw** the last **collected character** whenever they want.
