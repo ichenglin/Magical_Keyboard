@@ -1,4 +1,4 @@
-package com.ichenglin;
+package com.ichenglin.map;
 
 public class MapGenerator {
 

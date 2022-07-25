@@ -1,6 +1,6 @@
 package com.ichenglin.window;
 
-import com.ichenglin.MapGenerator;
+import com.ichenglin.map.MapGenerator;
 
 import javax.swing.*;
 import java.awt.*;
